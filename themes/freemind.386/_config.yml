@@ -1,0 +1,49 @@
+slogan: "变宝为废，变废为核废。"
+
+show_heart: false
+
+show_slogan: true
+
+menu:
+  - title: 📁 存档
+    url: archives
+    intro: "回收：旧彩电，旧冰箱，旧空调，旧博客——"
+    # icon: "fa fa-archive"
+  - title: ❓ 关于
+    url: about
+    intro: "关于幺蛾子和回收站。"
+    # icon: "fa fa-user"
+  - title: 🛜 RSS
+    url: atom.xml
+    intro: "一种神奇的远古技术。"
+    # icon: "fa-solid fa-rss"
+
+links:
+  - title: 📖 GitHub
+    url: https://github.com/talentedbug
+    intro: "幺蛾子的 GitHub。"
+    # icon: "fa fa-github"
+  - title: ✉️ 邮件
+    url: mailto:talentedbug@tutamail.com
+    intro: "幺蛾子的邮件信箱。"
+    # icon: "fa-solid fa-envelope"
+  - title: 📢 Reddit
+    url: https://www.reddit.com/u/talentedbug
+    intro: "幺蛾子的 Reddit。"
+    # icon: "fa-brands fa-reddit"
+  - title: 📄 洛谷
+    url: https://www.luogu.com.cn/user/537285
+    intro: "幺蛾子的洛谷（蒟蒻）。"
+    # icon: "fa-solid fa-code"
+  - title: 🚩 Linux Do
+    url: https://linux.do/u/talentedbug
+    intro: "幺蛾子的 Linux Do。"
+    # icon: "fa-solid fa-flag"
+
+widgets:
+- recent_posts
+- links
+
+rss: 
+fancybox: true
+favicon: favicon.png
